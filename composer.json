@@ -133,7 +133,7 @@
         "drupal/history": "self.version",
         "drupal/image": "self.version",
         "drupal/inline_form_errors": "self.version",
-        "drupal/jsonapi": "self.version",
+        "drupal/jsonapi": "^2||self.version",
         "drupal/language": "self.version",
         "drupal/layout_builder": "self.version",
         "drupal/layout_discovery": "self.version",
